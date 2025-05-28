@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuchi Hsueh</h1>
 <h3 align="center">I'm a web dev mainly for Ruby on Rails projects and some Javascript with Node. I love technology, healthcare, music, food and cats.</h3>
 
-- 🔭 I’m currently working on [Walker](http://www.app-walker.me/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yhsueh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yhsueh" height="30" width="40" /></a>
